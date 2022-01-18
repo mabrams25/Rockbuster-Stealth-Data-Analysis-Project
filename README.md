@@ -8,3 +8,7 @@ Click on the following links below to view my visualizations from Tableau Public
 [Rockbusters: Total Revenue Per Country VS Rockbusters: Total Revenue Per City Visualization](https://public.tableau.com/app/profile/matthew3308/viz/RockbustersTotalRevenuePerCountryTotalRevenuePerCity/RockbustersTotalRevenuePerCountryVSRockbustersTotalRevenuePerCity)
 
 [Rockbuster Top 10 Countries: By Revenue and Number of Customers Visualization](https://public.tableau.com/app/profile/matthew3308/viz/RockbusterTop10CountriesByRevenueandNumberofCustomers/RockbusterTop10CountriesByRevenueandNumberofCustomers?publish=yes)
+
+[Rockbuster Stealth's Top 5 Paying Customers Within Top 10 Countries Visualization](https://public.tableau.com/app/profile/matthew3308/viz/RockbusterStealthsTop5PayingCustomersWithinTop10Countries/RockbustersHighestPayingCustomerForEachoftheTop10CountriesByCustomerandRevenueinMovieSales)
+
+[Top 10 Countries: Number of Customers vs Total Revenue Visualization](https://public.tableau.com/app/profile/matthew3308/viz/Top10CountriesNumberofCustomersvsTotalRevenue/NumberofCustomersvsTotalRevenue?publish=yes) 
