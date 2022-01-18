@@ -1,7 +1,7 @@
 SELECT B.customer_id AS "Customer ID",
        CONCAT(B.first_name,' ',B.last_name) AS "Customer Name",
        C.address AS "Address",
-       CONCAT(D.city,' ',E.country) AS "City, Country",
+       CONCAT(D.city,' ',E.country) AS "City, Country"
        SUM(amount) AS "Total Amount"
 FROM payment A
 INNER JOIN customer B ON A.customer_id = B.customer_id
