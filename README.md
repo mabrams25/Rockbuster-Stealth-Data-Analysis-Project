@@ -5,7 +5,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 [Revenue Earnings of Rockbuster by Genre Bar Chart](https://public.tableau.com/app/profile/matthew3308/viz/ComparingRevenuesofDifferentMovieGenres/Sheet1)
 
-[Rockbusters: Total Revenue Per Country VS Rockbusters: Total Revenue Per City Map Chart](https://public.tableau.com/app/profile/matthew3308/viz/RockbustersTotalRevenuePerCountryTotalRevenuePerCity/RockbustersTotalRevenuePerCountryVSRockbustersTotalRevenuePerCity)
+[Rockbusters: Total Revenue Per Country VS Rockbusters: Total Revenue Per City Map Chart](https://public.tableau.com/app/profile/matthew3308/viz/Top10CountriesNumberofCustomersvsTotalRevenue/RockbustersTotalRevenuePerCountryVSRockbustersTotalRevenuePerCity?publish=yes)
 
 [Rockbuster Top 10 Countries: By Revenue and Number of Customers Bar Charts](https://public.tableau.com/app/profile/matthew3308/viz/RockbusterTop10CountriesByRevenueandNumberofCustomers/RockbusterTop10CountriesByRevenueandNumberofCustomers?publish=yes)
 
