@@ -7,5 +7,3 @@ INNER JOIN film_category D ON C.film_id = D.film_id
 INNER JOIN category E ON D.category_id = E.category_id
 GROUP BY 1
 ORDER BY 2 DESC
-
-(https://github.com/mabrams25/Rockbuster-Stealth-Data-Analysis-Project/blob/ffd8eb1dde0c086c64f63916a7da5bc276811493/Revenue%20by%20Genre)
