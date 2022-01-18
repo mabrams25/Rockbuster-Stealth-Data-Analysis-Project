@@ -1,6 +1,6 @@
 SELECT B.customer_id AS "Customer ID",
        CONCAT(B.first_name,' ',B.last_name) AS "Customer Name",
-       D.city AS "City"
+       D.city AS "City",
        E.country AS "Country",
        A.payment_date AS "Date of Payment"
 FROM payment A
