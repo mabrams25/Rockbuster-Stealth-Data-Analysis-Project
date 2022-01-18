@@ -1,0 +1,12 @@
+SELECT B.customer_id AS "Customer ID",
+       CONCAT(B.first_name, ' ', B.last_name) AS "Customer Name",
+       D.city AS "City"
+       E.country AS "Country",
+       A.payment_date AS "Date of Payment"
+FROM payment A
+INNER JOIN customer B ON A.customer_id = B.customer_id
+INNER JOIN address C ON B.address_id = C.address_id
+INNER JOIN city D ON C.city_id = D.city_id
+INNER JOIN country E ON D.country_id = E.ccountry_id
+GROUP BY 1,2,3,4,6
+ORDER BY 6
