@@ -1,5 +1,5 @@
 SELECT D.country AS "Country",
-      COUNT(A.customer_id) AS "Number of Customers"
+       COUNT(A.customer_id) AS "Number of Customers"
 FROM customer A
 INNER JOIN address B ON A.address_id = B.address_id
 INNER JOIN city C ON B.city_id = C.city_id
