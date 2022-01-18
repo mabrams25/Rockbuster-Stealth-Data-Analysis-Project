@@ -1,0 +1,4 @@
+SELECT rating as "Rating",
+       ROUND(AVG(rental_duration),2) AS "Average Rental Duration (in Days)"
+FROM film
+GROUP BY rating
