@@ -1,4 +1,4 @@
-SELECT D.city AS "City"
+SELECT D.city AS "City",
        E.country AS "Country",
        SUM(amount) AS "Total Revenue"
 FROM payment A
