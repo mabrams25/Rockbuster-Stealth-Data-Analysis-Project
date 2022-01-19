@@ -1,8 +1,8 @@
 # Rockbuster-Stealth-Data-Analysis-Project
 
-**Project based on movie rental data from a company called Rockbuster Stealth LLC**
+Project based on movie rental data from a company called Rockbuster Stealth LLC
 
-*Primary Objectives:*
+**Primary Objectives:**
 
 * Write moderately complex SQL queries to answer business questions
 * Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
