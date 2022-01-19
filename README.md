@@ -8,6 +8,8 @@ Primary Objectives:
 * Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
 * Present SQL results to technical colleagues using Excel and by creating a data dictionary
 
+# Visualizations
+
 **Click on the following links below to view my visualizations from Tableau Public:**
 
 [Revenue Earnings of Rockbuster by Genre Bar Chart](https://public.tableau.com/app/profile/matthew3308/viz/ComparingRevenuesofDifferentMovieGenres/Sheet1)
