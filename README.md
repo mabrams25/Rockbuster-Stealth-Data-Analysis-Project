@@ -5,7 +5,7 @@
 Primary Objectives:
 
 * Write moderately complex SQL queries to answer business questions
-* Present SQL results to business managers by creative storytelling and visualizations 
+* Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
 * Present SQL results to technical colleagues using Excel and by creating a data dictionary
 
 **Click on the following links below to view my visualizations from Tableau Public:**
