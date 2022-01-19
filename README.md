@@ -1,6 +1,6 @@
 # Rockbuster-Stealth-Data-Analysis-Project
 
-Project based on movie rental data from a company called Rockbuster Stealth LLC
+Project is based on movie rental data from a company called Rockbuster Stealth LLC
 
 **Primary Objectives:**
 
