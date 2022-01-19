@@ -8,6 +8,24 @@ Project is based on movie rental data from a company called Rockbuster Stealth L
 * Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
 * Present SQL results to technical colleagues using Excel and by creating a data dictionary
 
+# Files
+
+Here is the structure of the repository:
+```
+Rockbuster Data Sets                                 # Folder contains all fact and dimension tables relating to Rockbuster Stealth LLC
+Data Dictionary (Rockbuster Stealth LLC) .pdf        # A data dictionary containing an Entity Relationship Diagram and all tables that share links to other tables
+Excel SQL Query Work Rockbuster.xlsx                 # A spreadsheet containing pictures of all SQL queries and their data output
+PowerPoint Rockbuster Data Analysis .pdf             # A presentation to communicate SQL results to business managers
+Query 1: Date of Payment                             # A SQL query returning customer information regarding their date of movie rental purchase
+Query 2: Average Duration Per Rating                 # A SQL query returning the average duration in days for each movie rating
+Query 3: Revenue by Genre                            # A SQL query returning how much revenue was earned for each movie genre
+Query 4: Total Revenue Country                       # A SQL query returning how much revenue was earned for each country
+Query 5: Total Revenue Country & City                # A SQL query returning how much revenue was earned grouped by country and city
+Query 6: Top 10 Countries By Revenue                 # A SQL query returning the top 10 countries by highest revenue earned
+Query 7: Top 10 Countries By Customer                # A SQL query returning the top 10 countries by highest customer count
+Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the top 5 customers based off from the top 10 countries
+```
+
 # Visualizations
 
 **Click on the following links below to view my visualizations from Tableau Public:**
