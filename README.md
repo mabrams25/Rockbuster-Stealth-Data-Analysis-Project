@@ -21,10 +21,10 @@ Query 2: Average Duration Per Rating                 # A SQL query returning the
 Query 3: Revenue by Genre                            # A SQL query returning how much revenue was earned for each movie genre
 Query 4: Total Revenue Country                       # A SQL query returning how much revenue was earned for each country
 Query 5: Total Revenue Country & City                # A SQL query returning how much revenue was earned grouped by country and city
-Query 6: Top 10 Countries By Revenue                 # A SQL query returning the top 10 countries by highest revenue earned
-Query 7: Top 10 Countries By Customer                # A SQL query returning the top 10 countries by highest customer count
+Query 6: Top 10 Countries By Revenue CTE             # A SQL query using CTE returning the top 10 countries by highest revenue earned
+Query 7: Top 10 Countries By Customer CTE            # A SQL query using CTE returning the top 10 countries by highest customer count
 Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the top 5 customers based off from the top 10 countries
-Query 9: CTE Average Amount Paid by Top 5 Customers  # A SQL query returning the average amount paid from top 5 customers based off from the top 10 countries
+Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE returning the top 5 customers based off from the top 10 countries  
 ```
 
 # Visualizations
