@@ -1,3 +1,5 @@
+WITH top_ten_countries AS
+(
 SELECT E.country AS "Country",
        SUM(A.amount) AS "Total Revenue"
 FROM payment A
@@ -7,4 +9,7 @@ INNER JOIN city D ON C.city_id = D.city_id
 INNER JOIN country E ON D.country_id = E.country_id
 GROUP BY 1
 ORDER BY 2 DESC
+)
+SELECT * 
+FROM top_ten_countries
 LIMIT 10
