@@ -24,6 +24,7 @@ Query 5: Total Revenue Country & City                # A SQL query returning how
 Query 6: Top 10 Countries By Revenue                 # A SQL query returning the top 10 countries by highest revenue earned
 Query 7: Top 10 Countries By Customer                # A SQL query returning the top 10 countries by highest customer count
 Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the top 5 customers based off from the top 10 countries
+Query 9: CTE Average Amount Paid by Top 5 Customers  # A SQL query returning the average amount paid from top 5 customers based off from the top 10 countries
 ```
 
 # Visualizations
