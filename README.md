@@ -8,7 +8,7 @@ Project is based on movie rental data from a company called Rockbuster Stealth L
 * Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
 * Present SQL results to technical colleagues using Excel and by creating a data dictionary
 
-# Files
+# Folders/Files
 
 Here is the structure of the repository:
 ```
