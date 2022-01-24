@@ -38,7 +38,7 @@ Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE ret
 
 # Final Deliveries
 
-Here are some of the files regarding 
+Here are the project deliveries that describe my analysis and the ouputs from my SQL queries:
 ```
 Excel SQL Query Work Rockbuster.xlsx                 # A spreadsheet containing pictures of all SQL queries and their data output
 PowerPoint Rockbuster Data Analysis .pdf             # A presentation to communicate SQL results to business managers 
