@@ -5,23 +5,26 @@ Project is based on movie rental data from a company called Rockbuster Stealth L
 **Primary Objectives:**
 
 * Write moderately complex SQL queries to answer business questions:
- -Which movies contributed the most/least to revenue gain? 
- -What was the average rental duration for all videos? 
- -Which countries are Rockbuster customers based in? 
- -Where are customers with a high lifetime value based? 
- -Do sales figures vary between geographic regions? 
+  *Which movies contributed the most/least to revenue gain? 
+  *What was the average rental duration for all videos? 
+  *Which countries are Rockbuster customers based in? 
+  *Where are customers with a high lifetime value based? 
+  *Do sales figures vary between geographic regions? 
 * Present SQL results to business managers by creative storytelling using PowerPoint and visualizations from Tableau
 * Present SQL results to technical colleagues using Excel and by creating a data dictionary
 
-# Folder
+# Rockbuster Data Sets and Data Dictionary
 
-Here this folder contains all Rockbuster data sets:
+Here this folder contains all Rockbuster data sets and a data dictionary that I've written:
 ```
 Rockbuster Data Sets                                 # Folder contains all fact and dimension tables relating to Rockbuster Stealth LLC
+Data Dictionary (Rockbuster Stealth LLC) .pdf        # A data dictionary containing an Entity Relationship Diagram and all tables that share links to other tables
 ```
+
 # Queries
 
-Here are my queries that I've used to answer all business questions:
+Here are some of the queries that I've written to answer business questions mentioned above:
+```
 Query 1: Date of Payment                             # A SQL query returning customer information regarding their date of movie rental purchase
 Query 2: Average Duration Per Rating                 # A SQL query returning the average duration in days for each movie rating
 Query 3: Revenue by Genre                            # A SQL query returning how much revenue was earned for each movie genre
@@ -31,10 +34,12 @@ Query 6: Top 10 Countries By Revenue CTE             # A SQL query using CTE ret
 Query 7: Top 10 Countries By Customer CTE            # A SQL query using CTE returning the top 10 countries by highest customer count
 Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the top 5 customers based off from the top 10 countries
 Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE returning the top 5 customers based off from the top 10 countries 
+```
 
 # Final Deliveries
+
+Here are some of the files regarding 
 ```
-Data Dictionary (Rockbuster Stealth LLC) .pdf        # A data dictionary containing an Entity Relationship Diagram and all tables that share links to other tables
 Excel SQL Query Work Rockbuster.xlsx                 # A spreadsheet containing pictures of all SQL queries and their data output
 PowerPoint Rockbuster Data Analysis .pdf             # A presentation to communicate SQL results to business managers 
 ```
