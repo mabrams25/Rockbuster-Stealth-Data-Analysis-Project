@@ -36,7 +36,7 @@ Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the
 Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE returning the top 5 customers based off from the top 10 countries 
 ```
 
-# Final Deliveries
+# Final Project Deliveries
 
 Here are the project deliveries that describe my analysis and the ouputs from my SQL queries:
 ```
