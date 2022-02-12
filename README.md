@@ -2,7 +2,7 @@
 
 Project is based on movie rental data from a company called Rockbuster Stealth LLC
 
-**Primary Objectives:**
+# Primary Objectives
 
 * Write moderately complex SQL queries to answer business questions:
   1. Which movies contributed the most/least to revenue gain? 
