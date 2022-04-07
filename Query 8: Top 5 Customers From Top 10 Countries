@@ -1,6 +1,6 @@
-SELECT B.customer_id AS "Customer ID",
-       CONCAT(B.first_name,' ',B.last_name) AS "Customer Name",
-       C.address AS "Address",
+WITH customer_payment AS
+(
+SELECT CONCAT(B.first_name,' ',B.last_name) AS "Customer Name",
        CONCAT(D.city,', ',E.country) AS "City, Country",
        SUM(amount) AS "Total Amount"
 FROM payment A
@@ -10,6 +10,8 @@ INNER JOIN city D ON C.city_id = D.city_id
 INNER JOIN country E ON D.country_id = E.country_id
 WHERE country IN ('India', 'China', 'United States', 'Japan', 'Mexico', 'Brazil',
                   'Russian Federation', 'Philippines', 'Indonesia', 'Turkey') 
-GROUP BY 1,2,3,4
-ORDER BY 5 DESC
+GROUP BY 1,2
+ORDER BY 3 DESC
+)
+SELECT * FROM customer_payment
 LIMIT 5
