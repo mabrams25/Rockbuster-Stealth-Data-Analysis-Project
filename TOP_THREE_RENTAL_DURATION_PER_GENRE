@@ -1,0 +1,12 @@
+WITH TOP_THREE_RENTAL_DURATION_PER_GENRE AS
+(SELECT A.title AS "Movie Name",
+		C.name AS "Genre",
+        A.rental_duration AS "Rental Duration",
+	   DENSE_RANK() OVER (PARTITION BY C.name 
+	   ORDER BY A.rental_duration DESC) AS duration_rank
+FROM film A
+INNER JOIN film_category B ON A.film_id = B.film_id
+INNER JOIN category C ON B.category_id = C.category_id
+)
+SELECT * FROM TOP_THREE_RENTAL_DURATION_PER_GENRE
+WHERE duration_rank <= 3
