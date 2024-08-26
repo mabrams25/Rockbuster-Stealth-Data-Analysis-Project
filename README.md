@@ -33,7 +33,8 @@ Query 5: Total Revenue Country & City                # A SQL query returning how
 Query 6: Top 10 Countries By Revenue CTE             # A SQL query using CTE returning the top 10 countries by highest revenue earned
 Query 7: Top 10 Countries By Customer CTE            # A SQL query using CTE returning the top 10 countries by highest customer count
 Query 8: Top 5 Customers From Top 10 Countries       # A SQL query returning the top 5 customers based off from the top 10 countries
-Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE returning the top 5 customers based off from the top 10 countries 
+Query 9: Average Amount Paid by Top 5 Customers CTE  # A SQL query using CTE returning the top 5 customers based off from the top 10 countries
+Query 10: Top 3 Films by Duration Rate Per Genre CTE # A SQL query using CTE and a window function returning the top 3 films per genre
 ```
 
 # Final Project Deliveries
